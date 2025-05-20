@@ -91,6 +91,8 @@ systemctl restart mysql
 
 <br>
 - Ingresar con las nuevas credenciales a mysql
+
+
 ```cmd
 mysql -u root -p 
 
@@ -99,7 +101,10 @@ mysql -u root -p
 
 ![img_1](recursos/1.7.png)
 
+
 <br>
+
+
 - Crear base de datos y tabla
 
 
