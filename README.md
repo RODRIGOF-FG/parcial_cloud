@@ -4,6 +4,18 @@
 
 # Paso 1 - Configuracion de instancia para la Base de datos 
 
+- Actualizar repositorios de la instancia:
+<br>
+
+```cmd
+sudo su apt update -y
+
+```
+- Salida
+
+<br>
+
+
 <br>
 
 ![img_1](recursos/1.png)
@@ -12,7 +24,12 @@
 
 
 # AA 
+- Instalar MySql en Ubuntu:
 
+```cmd
+apt install mysql-server
+
+```
 <br>
 
 ![img_1](recursos/1.1.png)
