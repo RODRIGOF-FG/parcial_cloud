@@ -90,13 +90,19 @@ systemctl restart mysql
 ![img_1](recursos/1.6.png)
 
 <br>
+
+
 - Ingresar con las nuevas credenciales a mysql
+
+<br>
 
 
 ```cmd
 mysql -u root -p 
 
 ```
+
+
 <br>
 
 ![img_1](recursos/1.7.png)
