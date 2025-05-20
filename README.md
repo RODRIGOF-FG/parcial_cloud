@@ -107,3 +107,76 @@
 <br>
 
 
+# Paso 2 - Configuracion instancia - Servidor web tomcat 10 
+
+<br>
+
+![img_1](recursos/2.png)
+
+<br>
+
+
+# bbb
+
+<br>
+
+![img_1](recursos/2.1.png)
+
+<br>
+# bbb
+
+<br>
+
+![img_1](recursos/2.2.png)
+
+<br>
+# bbb
+
+<br>
+
+![img_1](recursos/2.3.png)
+
+<br>
+
+
+# bbb
+
+<br>
+
+![img_1](recursos/2.4.png)
+
+<br>
+
+# bbb
+
+<br>
+
+![img_1](recursos/2.5.png)
+
+<br>
+
+# bbb
+
+<br>
+
+![img_1](recursos/2.6.png)
+
+<br>
+
+# bbb
+
+<br>
+
+![img_1](recursos/2.7.png)
+
+<br>
+# bbb
+
+<br>
+
+![img_1](recursos/2.8.png)
+
+<br>
+
+
+
