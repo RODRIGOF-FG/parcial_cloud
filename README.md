@@ -174,7 +174,7 @@
 
 <br>
 
-![img_1](recursos/2.8.png)
+![img_1](recursos/2-8.png)
 
 <br>
 
