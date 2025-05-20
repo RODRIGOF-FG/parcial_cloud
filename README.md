@@ -124,6 +124,8 @@ CREATE TABLE mascotas (
 - Crear nuevo usuario para conexion remota
 
 <br >
+
+
 ```cmd
 CREATE USER 'admin'@'%' IDENTIFIED BY '*123456';
 GRANT ALL PRIVILEGES ON *.* TO 'admin'@'%' WITH GRANT OPTION;
