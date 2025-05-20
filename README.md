@@ -101,6 +101,8 @@ mysql -u root -p
 
 <br>
 - Crear base de datos y tabla
+
+
 ```cmd
 CREATE DATABASE vettrack;
 USE vettrack;
