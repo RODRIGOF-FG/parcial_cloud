@@ -11,7 +11,6 @@
 sudo su apt update -y
 
 ```
-- Salida
 
 <br>
 
@@ -23,7 +22,6 @@ sudo su apt update -y
 <br>
 
 
-# AA 
 - Instalar MySql en Ubuntu:
 
 ```cmd
@@ -37,15 +35,24 @@ apt install mysql-server
 <br>
 
 
-# AA 
+- Verificar estado de Mysql
 
+```cmd
+systemctl status mysql 
+
+```
 <br>
 
 ![img_1](recursos/1.2.png)
 
 <br>
 
-# AA 
+- Ingresar a Mysql como root
+
+```cmd
+mysql -u root -p 
+
+```
 
 <br>
 
@@ -54,16 +61,19 @@ apt install mysql-server
 <br>
 
 
-# AA 
+- Dentro de mysql debemos de cambiar la contraseña de root de la siguiente manera: 
+
+```cmd
+FULL PRIVILEGES;
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '*123456';
+exit;
+
+``` 
 
 <br>
 
 ![img_1](recursos/1.4.png)
 
-<br>
-# AA 
-
-<br>
 
 ![img_1](recursos/1.5.png)
 
