@@ -2,6 +2,19 @@
 
 **Despliegue .war**
 
+
+## Diagrama Arquitectura
+
+
+
+<br>
+
+![img_1](recursos/diagrama.png)
+
+<br>
+
+
+
 # Paso 1 - Configuracion de instancia para la Base de datos 
 
 - Actualizar repositorios de la instancia:
