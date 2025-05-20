@@ -149,7 +149,10 @@ GRANT ALL PRIVILEGES ON *.* TO 'admin'@'%' WITH GRANT OPTION;
 <br>
 
 
-# AA 
+<br>
+- Habilitar que cualquier dispositivo se pueda conectar a mi bd
+
+
 
 <br>
 
@@ -158,7 +161,9 @@ GRANT ALL PRIVILEGES ON *.* TO 'admin'@'%' WITH GRANT OPTION;
 <br>
 
 
-# AA 
+<br>
+- reinicair servicio mysql
+
 
 <br>
 
@@ -169,6 +174,16 @@ GRANT ALL PRIVILEGES ON *.* TO 'admin'@'%' WITH GRANT OPTION;
 
 # Paso 2 - Configuracion instancia - Servidor web tomcat 10 
 
+
+<br>
+- Instalar jdk 
+
+<br >
+
+
+```cmd
+apt install jdk-default -y
+```
 <br>
 
 ![img_1](recursos/2.png)
@@ -176,21 +191,36 @@ GRANT ALL PRIVILEGES ON *.* TO 'admin'@'%' WITH GRANT OPTION;
 <br>
 
 
-# bbb
+<br>
+- Instalar tomcat10 
+
+<br >
+
+
+```cmd
+apt install tomcat10 tomcat10-admin
+```
+<br>
 
 <br>
 
 ![img_1](recursos/2.1.png)
 
 <br>
-# bbb
+<br>
+- Configurar usuario
+
+
 
 <br>
 
 ![img_1](recursos/2.2.png)
 
 <br>
-# bbb
+<br>
+- Ingresar por puerto 8080
+
+
 
 <br>
 
@@ -199,7 +229,11 @@ GRANT ALL PRIVILEGES ON *.* TO 'admin'@'%' WITH GRANT OPTION;
 <br>
 
 
-# bbb
+<br>
+- Ingresar credenciales
+
+
+
 
 <br>
 
@@ -207,30 +241,39 @@ GRANT ALL PRIVILEGES ON *.* TO 'admin'@'%' WITH GRANT OPTION;
 
 <br>
 
-# bbb
+<br>
+- Panel de admin
+
+
+
 
 <br>
 
 ![img_1](recursos/2.5.png)
 
-<br>
 
-# bbb
 
-<br>
 
 ![img_1](recursos/2.6.png)
 
 <br>
 
-# bbb
+<br>
+- Seleccionar archivo .war y desplegar
+
+
+
 
 <br>
 
 ![img_1](recursos/2.7.png)
 
 <br>
-# bbb
+<br>
+- Despliegue exitoso en: http://18.116.8.96:8080/VetTrack/
+
+
+
 
 <br>
 
