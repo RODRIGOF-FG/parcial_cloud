@@ -78,36 +78,52 @@ exit;
 ![img_1](recursos/1.5.png)
 
 <br>
-# AA 
+- Restablecer MySql en Ubuntu:
+
+```cmd
+systemctl restart mysql
+
+```
 
 <br>
 
 ![img_1](recursos/1.6.png)
 
 <br>
-# AA 
+- Ingresar con las nuevas credenciales a mysql
+```cmd
+mysql -u root -p 
 
+```
 <br>
 
 ![img_1](recursos/1.7.png)
 
 <br>
-# AA 
+- Crear base de datos y tabla
+```cmd
+CREATE DATABASE vettrack;
+USE vettrack;
+CREATE TABLE mascotas (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre_mascota VARCHAR(100) NOT NULL,
+    nombre_dueno VARCHAR(100) NOT NULL
+);
+```
 
 <br>
 
 ![img_1](recursos/1.8.png)
 
-<br>
-
-# AA 
-
-<br>
 
 ![img_1](recursos/1.9.png)
 
 <br>
-# AA 
+- Crear nuevo usuario para conexion remota
+```cmd
+CREATE USER 'admin'@'%' IDENTIFIED BY '*123456';
+GRANT ALL PRIVILEGES ON *.* TO 'admin'@'%' WITH GRANT OPTION;
+```
 
 <br>
 
