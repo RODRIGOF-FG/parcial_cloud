@@ -2,6 +2,10 @@
 
 **Despliegue .war**
 
+Codigo en .war ![.war](recursos/VetTrack.war) 
+
+
+
 
 ## Diagrama Arquitectura
 
