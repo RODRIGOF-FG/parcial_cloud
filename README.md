@@ -4,7 +4,7 @@
 
 El archivo de despliegue del sistema se encuentra en:
 
-![](recursos/VetTrack.war)
+![Archivo war ---> ](recursos/VetTrack.war)
 
 
 
