@@ -2,7 +2,9 @@
 
 **Despliegue .war**
 
-Codigo en .war ![.war](recursos/VetTrack.war) 
+El archivo de despliegue del sistema se encuentra en:
+
+`recursos/VetTrack.war`
 
 
 
