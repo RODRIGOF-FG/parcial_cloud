@@ -309,5 +309,14 @@ apt install tomcat10 tomcat10-admin
 
 <br>
 
+- Registros y visualizacion de datos
+
+<br>
+
+![img_1](recursos/3.png)
+
+<br>
+
+![img_1](recursos/3.1.png)
 
 
