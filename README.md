@@ -4,7 +4,7 @@
 
 El archivo de despliegue del sistema se encuentra en:
 
-![recursos/java.png](recursos/VetTrack.war)
+![](recursos/VetTrack.war)
 
 
 
