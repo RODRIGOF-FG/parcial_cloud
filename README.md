@@ -5,6 +5,14 @@
 
 ## Diagrama Arquitectura
 
+1. Capa de Presentación (Frontend):
+La aplicación cuenta con una interfaz web desarrollada en HTML que permite a los usuarios registrar mascotas y consultar la lista de registros. Esta capa puede ser accedida mediante un navegador web, cumpliendo la función de interactuar con el usuario final.
+
+2. Capa de Aplicación (Lógica de Negocio):
+La lógica de negocio está implementada en Java utilizando JSP (JavaServer Pages). A través de esta capa, se gestiona el flujo del registro y la consulta de mascotas.
+
+3. Capa de Datos (Persistencia):
+Los datos se almacenan y consultan desde una base de datos relacional MySQL, que se encuentra alojada en una instancia separada con sistema operativo Ubuntu. 
 
 
 <br>
